@@ -1,0 +1,46 @@
+# Ignorer le dossier des données BMW
+bmw_cars/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Modèles entraînés
+*.h5
+*.keras
+*.pth
+*.pt
+*.ckpt
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Variables d'environnement
+.env
+
+# Dossiers de build
+build/
+dist/
+*.egg-info/
